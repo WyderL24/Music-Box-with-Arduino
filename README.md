@@ -4,7 +4,7 @@
 
 **🔧 Components Needed**
 
-Arduino Uno/Nano (or any compatible board) /br
+Arduino Uno/Nano (or any compatible board) 
 MicroSD card module
 MicroSD card (FAT32 formatted, loaded with .wav or .mp3 file)
 Push button (for triggering playback)

@@ -34,6 +34,13 @@ Format the SD card as **FAT32**.
 Create a folder MP3 or just put files in root.
 Rename your birthday music file as 0001.mp3 (DFPlayer plays them by number).
 
+**🎁 How It Works**
+
+Press button → music plays.
+Press again → music stops.
+You can add multiple songs (0001.mp3, 0002.mp3, etc.) and change button logic to play the next song.
+Add an LED to blink while music plays for extra effect.
+
 
 **DONATION:** 
     **Paypal - paypal.me/wyderl04**
